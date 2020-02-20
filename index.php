@@ -1,8 +1,8 @@
-<?php include("header.php"); ?>
+<?php include "header.php";?>
 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
+    <!-- Indicators DFGJKL;'-->
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -15,7 +15,7 @@
         <div class="carousel-caption">
           <h3>Sell $</h3>
           <p>Money Money.</p>
-        </div>      
+        </div>
       </div>
 
       <div class="item">
@@ -23,7 +23,7 @@
         <div class="carousel-caption">
           <h3>More Sell $</h3>
           <p>Lorem ipsum...</p>
-        </div>      
+        </div>
       </div>
     </div>
 
@@ -47,15 +47,15 @@
   <h1><u>
     Welcome to tathastu-Welfare-Society Pariwar</u>
   </h1>
- 
+
   <div class="col-sm-7" >
-    <p style="text-align:center;  margin-top:30px;">Lorem Ipsum is simply dummy text of the printing and typesetting 
-      industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
-      unknown printer took a galley of type and scrambled it to make a type specimen book. 
+    <p style="text-align:center;  margin-top:30px;">Lorem Ipsum is simply dummy text of the printing and typesetting
+      industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an
+      unknown printer took a galley of type and scrambled it to make a type specimen book.
       It has survived not only five centuries, but also the leap into electronic typesetting,
-       remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets 
-       containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker 
-       including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.  
+       remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets
+       containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
+       including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry.
        more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
   </div>
 
@@ -93,8 +93,8 @@
               <div class="col-md-4">
                   <img class="img-responsive" src="image/gallery/29t.jpg" alt="" style="margin-bottom: 25px;  border:black solid 2px;">
               </div>
-             
-              
+
+
               <div class="col-md-4">
                   <img class="img-responsive" src="image/gallery/28t.jpg" alt="" style="margin-bottom: 25px;  border:black solid 2px;">
               </div>
@@ -108,7 +108,7 @@
 <div class="col-md-4">
                   <img class="img-responsive" src="image/gallery/22t.jpg" alt="" style="margin-bottom: 25px;  border:black solid 2px;">
               </div>
-              
+
           </div>
       </div>
   </div>
@@ -133,29 +133,29 @@
 
 <div class="col-md-1"></div>
 
-<div class="col-md-2" id="respon" > 
+<div class="col-md-2" id="respon" >
 <img src="image/team/1team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px; margin-top:30px;
      margin-bottom: 50px;">
 </div>
 
 
-<div class="col-md-2" id="respon"> 
+<div class="col-md-2" id="respon">
   <img src="image/team/2team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px; margin-top:30px;
      margin-bottom: 50px;">
   </div>
 
-  <div class="col-md-2" id="respon"> 
+  <div class="col-md-2" id="respon">
     <img src="image/team/3team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px; margin-top:30px;
      margin-bottom: 50px;">
     </div>
 
-    <div class="col-md-2" id="respon"> 
+    <div class="col-md-2" id="respon">
       <img src="image/team/4team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px; margin-top:30px;
      margin-bottom: 50px;">
-    
+
       </div>
 
-      <div class="col-md-2" id="respon"> 
+      <div class="col-md-2" id="respon">
         <img src="image/team/8team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px;  margin-top:30px;
    margin-bottom: 50px;">
         </div>
@@ -169,27 +169,27 @@
 
         <div class="col-md-2"></div>
 
-      <div class="col-md-2" id="respon"> 
+      <div class="col-md-2" id="respon">
         <img src="image/team/5team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px; margin-top:30px;
      margin-bottom: 50px;">
         </div>
 
-        <div class="col-md-2" id="respon"> 
+        <div class="col-md-2" id="respon">
           <img src="image/team/6team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px;  margin-top:30px;
      margin-bottom: 50px;">
           </div>
-      
-          <div class="col-md-2" id="respon"> 
+
+          <div class="col-md-2" id="respon">
           <img src="image/team/7team.jpg" class="img-rounded img-responsive" style="height:210px; border:black solid 2px;  margin-top:30px;
      margin-bottom: 50px;">
           </div>
 
-          <div class="col-md-2" id="respon"> 
+          <div class="col-md-2" id="respon">
             <img src="image/team/9team.jpg" class="img-rounded img-responsive" style="height:210px;
              border:black solid 2px;  margin-top:30px;
        margin-bottom: 50px;">
             </div>
-      
+
             <div class="col-md-2"></div>
       </div>
 
@@ -207,12 +207,12 @@
 ------------------------------------------------------------------------------------------------------>
 
 
-<div class="container-fluid " style="background-color: #b2dfdb ;" >    
+<div class="container-fluid " style="background-color: #b2dfdb ;" >
   <h1><u>Newpaper Clip</u></h1>
   <div class="container text-center">
   <div class="row">
-        
-       
+
+
 
             <div class="col-sm-3" id="respon">
             <img src="image/news/1paper.jpg" class=" img-rounded img-responsive" style=" height: 300px; margin-top:20px;
@@ -223,26 +223,26 @@
             <div class="col-sm-3" id="respon">
             <img src="image/news/2paper.jpg" class="img-rounded img-responsive" style= " height:300px;margin-top:20px;
             margin-bottom: 30px;" alt="Image">
-                
+
             </div>
 
             <div class="col-sm-3" id="respon">
               <img src="image/news/3paper.jpg" class="img-rounded img-responsive" style=" height:300px;margin-top:20px;
               margin-bottom: 30px;" alt="Image">
-                  
+
               </div>
-  
+
               <div class="col-sm-3" id="respon">
                 <img src="image/news/5paper.jpg" class="img-rounded img-responsive" style="height:300px; margin-top:20px;
                 margin-bottom: 30px;" alt="Image">
-                    
+
                 </div>
-    
-            
-            
-            
-              
-            
+
+
+
+
+
+
  </div><!--row close--->
 </div>
 </div><!--container 1-->
@@ -351,4 +351,4 @@
 
 
 
-<?php include("footer.php"); ?>
+<?php include "footer.php";?>
